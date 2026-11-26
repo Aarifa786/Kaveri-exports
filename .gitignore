@@ -9,3 +9,8 @@ __pycache__/
 # Database generated locally
 *.db
 indexes/
+# Environment secrets
+.env
+
+# Midstone 2 temporary files
+midstone2_temp/
